@@ -4,12 +4,15 @@ xssing
 Funny and easy xss platform
   
  
-
+<pre>
 项目发布地址 http://yaseng.me/xssing-1.html
 介绍文章 http://yaseng.me/bind-xss-tutorial.html
 Google 托管 http://code.google.com/p/xssing/
 演示视频 http://v.youku.com/v_show/id_XNDYzODM5MDcy.html
 交流qq群 209546692 作者微博 http://t.qq.com/uaucya
+版本     xssing 1.3
+
+</pre>
 
 安装
 
